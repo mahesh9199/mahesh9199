@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahesh9199
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently upskilling programming languages
+- 🌱 I’m currently upskilling and finding remote role.
 
 
 <!---
